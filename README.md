@@ -1,6 +1,6 @@
 **Name:** MEGHANA MH
 
-**Company:** CODETECH IT SOLUTIONS
+**Company:** CODTECH IT SOLUTIONS
 
 **ID:** CT4CC4123
 
