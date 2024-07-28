@@ -1,0 +1,15 @@
+                             **CODE USED TO CREATE A STATIC WEBSITE WITH GOOGLE CLOUD STORAGE**
+
+<html>
+<head>
+<h1 style="color:white">This is a static website from Google Cloud Stroage</h1>
+</head>
+<body style="background:black;">
+<h1 style="color:Red">WELCOME TO NOLIMITS CLUB!</h1>
+<h1 style="color:Orange">CHOOSE ONE OF THE BELOW</h1>
+<h1 style="color:Yellow">PILATES</h1>
+<h1 style="color:Green">YOGA</h1>
+<h1 style="color:Blue">DEADLIFT</h1>
+<h1 style="color:Indigo">CARDIO EXERCISE</h1>
+<h1 style="color:Violet">ZUMBA</h1>
+</html>
